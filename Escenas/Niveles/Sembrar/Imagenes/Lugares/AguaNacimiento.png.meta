@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 899ab05a54ed938479035fa4aa75e28d
+timeCreated: 1508182024
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AguaNacimiento_0
+    21300002: AguaNacimiento_1
+    21300004: AguaNacimiento_2
+    21300006: AguaNacimiento_3
+    21300008: AguaNacimiento_4
+    21300010: AguaNacimiento_5
+    21300012: AguaNacimiento_6
+    21300014: AguaNacimiento_7
+    21300016: AguaNacimiento_8
+    21300018: AguaNacimiento_9
+    21300020: AguaNacimiento_10
+    21300022: AguaNacimiento_11
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AguaNacimiento_0
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3049
+        width: 115
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_1
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2991
+        width: 176
+        height: 97
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_2
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2928
+        width: 214
+        height: 160
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_3
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2845
+        width: 242
+        height: 243
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1769
+        width: 259
+        height: 288
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_5
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1700
+        width: 276
+        height: 357
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_6
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1665
+        width: 303
+        height: 392
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_7
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1608
+        width: 344
+        height: 449
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 482
+        width: 363
+        height: 546
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_9
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 260
+        width: 381
+        height: 768
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_10
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 75
+        width: 439
+        height: 953
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaNacimiento_11
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 2
+        width: 522
+        height: 1026
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

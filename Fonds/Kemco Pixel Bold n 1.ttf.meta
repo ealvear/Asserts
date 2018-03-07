@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a6365bc722e4f684c9b94a532a855d62
+timeCreated: 1504717770
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 56
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kemco Pixel
+  fontNames:
+  - Kemco Pixel
+  fallbackFontReferences: []
+  customCharacters: 1234567890
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

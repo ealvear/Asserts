@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: b8ab51976664ed74f862c4d90cc70aaa
+timeCreated: 1508014785
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ChicaFinal2_0
+    21300002: ChicaFinal2_1
+    21300004: ChicaFinal2_2
+    21300006: ChicaFinal2_3
+    21300008: ChicaFinal2_4
+    21300010: ChicaFinal2_5
+    21300012: ChicaFinal2_6
+    21300014: ChicaFinal2_7
+    21300016: ChicaFinal2_8
+    21300018: ChicaFinal2_9
+    21300020: ChicaFinal2_10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChicaFinal2_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1756
+        width: 280
+        height: 874
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChicaFinal2_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1770
+        width: 283
+        height: 860
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChicaFinal2_2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1767
+        width: 286
+        height: 863
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChicaFinal2_3
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1754
+        width: 288
+        height: 876
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChicaFinal2_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 876
+        width: 286
+        height: 877
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChicaFinal2_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 879
+        width: 283
+        height: 875
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChicaFinal2_6
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 887
+        width: 289
+        height: 867
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChicaFinal2_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 891
+        width: 304
+        height: 863
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChicaFinal2_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 313
+        height: 866
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChicaFinal2_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 296
+        height: 873
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ChicaFinal2_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3
+        width: 290
+        height: 873
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

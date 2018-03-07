@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 268e958e97b77ee43b73753d5eb69215
+timeCreated: 1505077923
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FinalMisakCaminando_0
+    21300002: FinalMisakCaminando_1
+    21300004: FinalMisakCaminando_2
+    21300006: FinalMisakCaminando_3
+    21300008: FinalMisakCaminando_4
+    21300010: FinalMisakCaminando_5
+    21300012: FinalMisakCaminando_6
+    21300014: FinalMisakCaminando_7
+    21300016: FinalMisakCaminando_8
+    21300018: FinalMisakCaminando_9
+    21300020: FinalMisakCaminando_10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinalMisakCaminando_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1703
+        width: 220
+        height: 835
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalMisakCaminando_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1718
+        width: 347
+        height: 820
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalMisakCaminando_2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1718
+        width: 354
+        height: 813
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalMisakCaminando_3
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1701
+        width: 336
+        height: 834
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalMisakCaminando_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 857
+        width: 290
+        height: 834
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalMisakCaminando_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 851
+        width: 235
+        height: 841
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalMisakCaminando_6
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 855
+        width: 276
+        height: 833
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalMisakCaminando_7
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 864
+        width: 342
+        height: 820
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalMisakCaminando_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 306
+        height: 842
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalMisakCaminando_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 290
+        height: 846
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FinalMisakCaminando_10
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1
+        width: 250
+        height: 845
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

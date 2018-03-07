@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 2f2d5edbd3b526240838c2d130b2bba7
+timeCreated: 1508015217
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FcSembrar_0
+    21300002: FcSembrar_1
+    21300004: FcSembrar_2
+    21300006: FcSembrar_3
+    21300008: FcSembrar_4
+    21300010: FcSembrar_5
+    21300012: FcSembrar_6
+    21300014: FcSembrar_7
+    21300016: FcSembrar_8
+    21300018: FcSembrar_9
+    21300020: FcSembrar_10
+    21300022: FcSembrar_11
+    21300024: FcSembrar_12
+    21300026: FcSembrar_13
+    21300028: FcSembrar_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FcSembrar_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2571
+        width: 379
+        height: 849
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2569
+        width: 392
+        height: 822
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_2
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 2566
+        width: 409
+        height: 775
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_3
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 2564
+        width: 428
+        height: 703
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1711
+        width: 447
+        height: 623
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1718
+        width: 467
+        height: 545
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_6
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1727
+        width: 487
+        height: 495
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_7
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1727
+        width: 489
+        height: 494
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 872
+        width: 489
+        height: 491
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 872
+        width: 486
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_10
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 872
+        width: 483
+        height: 485
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_11
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 872
+        width: 484
+        height: 485
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 482
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_13
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 11
+        width: 482
+        height: 491
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FcSembrar_14
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 17
+        width: 483
+        height: 485
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
